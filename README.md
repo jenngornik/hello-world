@@ -15,6 +15,6 @@
 <h2>Breed</h2>
 <p>No specific breed.</p>
 
-<img src="https://user-images.githubusercontent.com/57336440/68098846-52cbd280-fe7c-11e9-8287-758ffd25682e.jpg" alt="What a fluff-ball" style="width:100;height:400;">
+<img src="https://user-images.githubusercontent.com/57336440/68098846-52cbd280-fe7c-11e9-8287-758ffd25682e.jpg" alt="What a fluff-ball" width="200">
 </body>
 </html>
