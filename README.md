@@ -15,5 +15,6 @@
 <h2>Breed</h2>
 <p>No specific breed.</p>
 
+<img src="kitty.jpg" alt="What a fluff-ball">
 </body>
 </html>
